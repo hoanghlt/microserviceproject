@@ -1,0 +1,12 @@
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\bin\Debug\net7.0\Common.Logging.deps.json
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\bin\Debug\net7.0\Common.Logging.dll
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\bin\Debug\net7.0\Common.Logging.pdb
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.csproj.AssemblyReference.cache
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.GeneratedMSBuildEditorConfig.editorconfig
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.AssemblyInfoInputs.cache
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.AssemblyInfo.cs
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.csproj.CoreCompileInputs.cache
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.dll
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\refint\Common.Logging.dll
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\Common.Logging.pdb
+W:\WS\SW\Source\aspnetcore-microservices\src\BuildingBlocks\Common.Logging\obj\Debug\net7.0\ref\Common.Logging.dll
