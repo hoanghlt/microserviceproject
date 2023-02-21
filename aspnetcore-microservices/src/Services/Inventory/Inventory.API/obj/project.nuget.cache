@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lp//GmX8V9G2xVEfHay4iH84cPPluL65yx9SkEhZcJW69ZArRMKyhlu/wB3RXBVaiEYwSruotdIYBla9fvUbyA==",
+  "dgSpecHash": "pBQ5cY7hZeY8asx6V0tXjCamTPq7CCUf0kb4kpGoqCpc7qM9Km2OYy+WIi48265uhIvYNyRgu8HsbjvzHDzjZQ==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Inventory\\Inventory.API\\Inventory.API.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Inventory\\Inventory.API\\Inventory.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

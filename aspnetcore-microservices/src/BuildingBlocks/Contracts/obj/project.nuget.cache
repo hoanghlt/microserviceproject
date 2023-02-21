@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7eKJM492d5qB904mezGNqTpcRZ2Y6n8ENVexzK2sBHI8U1vUsRnKOw0Po8ONX9R9nZCtILWKzRpRqILTADMIuQ==",
+  "dgSpecHash": "cEBlVJRjXaaEoQfVad17xKc98h/NbPyR3rkSPl8l+UPBlU9JN2zCtMgVmGnifiRUyyNudSf5l2hixRqTwCfNmg==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

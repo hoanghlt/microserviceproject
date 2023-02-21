@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj": {}
+    "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj": {}
   },
   "projects": {
-    "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
+    "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+        "projectUniqueName": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
         "projectName": "Common.Logging",
-        "projectPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+        "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
         "packagesPath": "C:\\Users\\4hoan\\.nuget\\packages\\",
-        "outputPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\obj\\",
+        "outputPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -78,14 +78,74 @@
         }
       }
     },
-    "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj": {
+    "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj",
-        "projectName": "Product.API",
-        "projectPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj",
+        "projectUniqueName": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
+        "projectName": "Contracts",
+        "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\4hoan\\.nuget\\packages\\",
-        "outputPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\obj\\",
+        "outputPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\4hoan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj",
+        "projectName": "Product.API",
+        "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\Product.API.csproj",
+        "packagesPath": "C:\\Users\\4hoan\\.nuget\\packages\\",
+        "outputPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Product\\Product.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -107,8 +167,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
-                "projectPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj"
+              "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj": {
+                "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj"
+              },
+              "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj": {
+                "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -126,6 +189,20 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",

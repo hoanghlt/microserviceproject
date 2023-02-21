@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jsLO55oTnSGnT8RJBcuYYW6WYWtrQ969MH18OQO9k9pDz5WPSE3DJk4qRU5aXOLe0ap1HJhgA+7fRDOOM0alXg==",
+  "dgSpecHash": "W3nudLvA2M9ZwhY6JRrIoT2sUskKnOPR5L6nITStkwruvwlK4wS5PK5B00zxl6a5RF+z2dVfp1/pea1ZAf+n4w==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Common.Logging\\Common.Logging.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.configuration\\2.0.0\\microsoft.extensions.configuration.2.0.0.nupkg.sha512",
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.8\\microsoft.extensions.configuration.abstractions.3.1.8.nupkg.sha512",

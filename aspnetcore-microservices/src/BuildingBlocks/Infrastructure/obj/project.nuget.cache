@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CN3mOuoPu1/S3SRvMHl2bebC26klQwdlSstWMTHT4r/gBZlJ35p9YklDcQBdbJh/sDaw50ngZm1meLCpANrY6A==",
+  "dgSpecHash": "EEa7EdAxTH+o+w4CjKOhz9cjTx244erKz3/OT0pnK3dfPy6VkE+TvU4MbxTQURyjIVqHxbA45s6stDxbpPqZjA==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

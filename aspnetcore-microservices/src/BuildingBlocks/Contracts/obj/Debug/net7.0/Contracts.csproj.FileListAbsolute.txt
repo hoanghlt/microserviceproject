@@ -1,0 +1,12 @@
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\bin\Debug\net7.0\Contracts.deps.json
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\bin\Debug\net7.0\Contracts.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\bin\Debug\net7.0\Contracts.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.csproj.AssemblyReference.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfoInputs.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.AssemblyInfo.cs
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.csproj.CoreCompileInputs.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\refint\Contracts.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\Contracts.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Contracts\obj\Debug\net7.0\ref\Contracts.dll

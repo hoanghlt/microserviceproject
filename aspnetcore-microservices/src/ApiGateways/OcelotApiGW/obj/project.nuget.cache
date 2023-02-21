@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9JpyHOC9XyJuMnY7lPHKsVdlZ5Fi2FfNYMv3CwsAovd/4nA63bcFX9wYi9f7T0OaDkz10b+L6RrTG8TRIQlEsg==",
+  "dgSpecHash": "lk4rv2nYqnhKOcHyWo1vRcp52XqgNnQha78/SQvKp2ZVnFVl9ynszcgl2I7Nbdk51pULBP8Ct/x42oSA/S74Ng==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\ApiGateways\\OcelotApiGW\\OcelotApiGW.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\ApiGateways\\OcelotApiGW\\OcelotApiGW.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

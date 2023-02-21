@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Shared.csproj",
+      "projectUniqueName": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Shared.csproj",
       "projectName": "Shared",
-      "projectPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Shared.csproj",
+      "projectPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\Shared.csproj",
       "packagesPath": "C:\\Users\\4hoan\\.nuget\\packages\\",
-      "outputPath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\obj\\",
+      "outputPath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\BuildingBlocks\\Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

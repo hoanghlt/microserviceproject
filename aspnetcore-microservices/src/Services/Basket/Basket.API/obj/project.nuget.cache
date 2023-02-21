@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9OJ7PBhvGljXLOLyQzrH5hxC0wC+j6Sqk6F6IKjgmOTreGzmaiJmNAHdP5P3/uPSLLLlveqrefO9bWyQMysBg==",
+  "dgSpecHash": "bZLmQnJFPix9+ldrvEWS+QVJktzXyqgRjXDdZgTGEBE8MR5HwM4f1KjZABUBcAKpciAImbi8uj6hciS+si+D9w==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Basket\\Basket.API\\Basket.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

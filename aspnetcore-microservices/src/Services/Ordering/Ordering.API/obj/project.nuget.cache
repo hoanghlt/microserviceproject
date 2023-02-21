@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m4DzkszTWTiJnL592fyNKIhPWhv10TRzbPruZdkCN+KapwFGU2AMMmRGK2bX8yf9AGMmjc4tw3tamHpw4TUgBA==",
+  "dgSpecHash": "TZGuCIwlaTuVQQU/VB+Q3UJQvYFAmU5InAnE7pk2vGd/d7MfXwX9v2l/Lmeu5UGC60Swxp4thTQvXa0XIO/DdA==",
   "success": true,
-  "projectFilePath": "W:\\WS\\SW\\Source\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
+  "projectFilePath": "W:\\Study\\microserviceproject\\aspnetcore-microservices\\src\\Services\\Ordering\\Ordering.API\\Ordering.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\4hoan\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
