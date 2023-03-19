@@ -11,6 +11,12 @@ public class ProductContext: DbContext
 
     public DbSet<Entities.Product> Products {get; set; }
 
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        base.OnModelCreating(modelBuilder);
+        modelBuilder.Entity<Entities.Product>().HasIndex(x => x.No).IsUnique();
+    }
+
     public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
     {
         var modified = ChangeTracker.Entries()

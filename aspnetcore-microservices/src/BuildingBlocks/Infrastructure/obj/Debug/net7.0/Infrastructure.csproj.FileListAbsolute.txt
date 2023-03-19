@@ -1,0 +1,15 @@
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\bin\Debug\net7.0\Contracts.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\bin\Debug\net7.0\Contracts.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CopyComplete
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\BuildingBlocks\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll

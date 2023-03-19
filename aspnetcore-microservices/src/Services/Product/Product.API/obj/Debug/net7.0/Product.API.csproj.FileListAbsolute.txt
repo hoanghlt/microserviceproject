@@ -144,3 +144,9 @@ W:\Study\microserviceproject\aspnetcore-microservices\src\services\product\Produ
 W:\Study\microserviceproject\aspnetcore-microservices\src\services\product\Product.API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
 W:\Study\microserviceproject\aspnetcore-microservices\src\services\product\Product.API\bin\Debug\net7.0\Mono.TextTemplating.dll
 W:\Study\microserviceproject\aspnetcore-microservices\src\services\product\Product.API\bin\Debug\net7.0\System.CodeDom.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\Infrastructure.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\Shared.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\Infrastructure.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\Shared.pdb
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\AutoMapper.dll
+W:\Study\microserviceproject\aspnetcore-microservices\src\Services\Product\Product.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
